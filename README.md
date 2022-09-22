@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**jaeffson/jaeffson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Jaeffson Sabino, Sou um programador Front end Jr, atualmente estou criando projetos em:
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<br>
+Sou um amante da Tecnologia, e por isso não meço esforço pra aprender tecnologias novas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudando JavaScript/React
+<br>
+<b> Contate-me 
+<br>
+
+<a href="https://www.linkedin.com/in/jaeffson-sabino-151955223/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeffson)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeffson)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+A procura de uma oportunidade
+
