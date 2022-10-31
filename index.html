@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <div>
+        <h1>Calculadora</h1>
+        <input  class="display" disabled>
+        <button class="gray-button" onclick="cleanDisplay('AC')">AC</button>
+        <button class="gray-button" onclick="invertNumber()">+/-</button>
+        <button class="blue-button" onclick="insertCaracter('/')">/</button>
+        <button class="blue-button" onclick="insertCaracter('*')">*</button>
+        <button class="black-button" onclick="insertCaracter('7')">7</button>
+        <button class="black-button" onclick="insertCaracter('8')">8</button>
+        <button class="black-button" onclick="insertCaracter('9')">9</button>
+        <button class="blue-button" onclick="insertCaracter('-')">-</button>
+        <button class="black-button" onclick="insertCaracter('4')">4</button>
+        <button class="black-button" onclick="insertCaracter('5')">5</button>
+        <button class="black-button" onclick="insertCaracter('6')">6</button>
+        <button class="blue-button" onclick="insertCaracter('+')">+</button>
+        <button class="black-button" onclick="insertCaracter('1')">1</button>
+        <button class="black-button" onclick="insertCaracter('2')">2</button>
+        <button class="black-button" onclick="insertCaracter('3')">3</button>
+        <button class="equal-button equal" onclick="calcular()">=</button>
+        <button class="black-button zero" onclick="insertCaracter('0')">0</button>
+        <button class="black-button" onclick="insertCaracter('.')">.</button>
+
+    </div>
+</body>
+<script>
+    function insertCaracter(onclick) {
+        const display = document.querySelector(".display").value
+        document.querySelector(".display").value = display + onclick
+    }
+    function cleanDisplay(){
+        document.querySelector(".display").value = ""
+    }
+    function calcular(){
+        const display = document.querySelector(".display").value
+        document.querySelector(".display").value = eval(display)
+    }
+    function invertNumber(){
+        const display = document.querySelector(".display").value
+        document.querySelector(".display").value = display * -1
+    }
+
+    
+
+</script>
+
+
+</html>
