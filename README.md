@@ -4,6 +4,7 @@ Sou Jaeffson Sabino, Sou um programador Front end Jr, atualmente estou criando p
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+<img src="https://www.luiztools.com.br/post/tutorial-de-react-js-com-node-js/](https://www.luiztools.com.br/wp-content/uploads/2020/06/reactJS.png)">
 <br>
 Sou um amante da Tecnologia, e por isso não meço esforços pra aprender tecnologias novas.
 
